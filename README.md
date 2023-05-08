@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShishirPandy
-- 👀 I’m interested in Machine Learning,Data Science , Artificial Intelligence,NLP
-- 🌱 I’m currently learning Data Science ,Artificial Intelligence
-- 💞️ I’m looking to collaborate on AI,Data Science,Machine Learning
+- 👀 I’m interested in Machine Learning,Software development,SAP Cloud Integration
+- 🌱 I’m CURRENTLY WORKING ON SpringBoot,Java,Hibernate,JPA,mysql
+- 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/shishir-pandey-07ab23216/
 
 <!---

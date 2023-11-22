@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shishirpandy&label=Profile%20views&color=0e75b6&style=flat" alt="shishirpandy" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot,Angular,Machine Leraning,Deep Leraning ,NLP**
+- 🌱 I’m currently learning **Spring Boot,Node JS,MongoDB,Machine Leraning,Deep Leraning ,NLP**
 
 - 👯 I’m looking to collaborate on **Backend Development,AI/ML Model deployment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShishirPandy](https://github.com/ShishirPandy)
 
-- 💬 Ask me about **ML ,AI,SpringBoot,Hibernate**
+- 💬 Ask me about **ML ,AI,SpringBoot,NodeJS,MongoDB**
 
 - 📫 How to reach me **shishir17pandey@gmail.com**
 
